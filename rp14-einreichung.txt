@@ -1,0 +1,15 @@
+Denzentrale Social Networks. Warum sie scheitern und wie es gehen könnte.
+
+Schon lange, aber vor allem heute nach den NSA-Enthüllungen, ist der Ruf zu vernehmen: Wir brauchen ein dezentrales Netz, wir müssen dürfen die Infrastruktur nicht wenigen Konzernen überlassen. Diese Forderungen gut und richtig, aber konkrete Projekte scheiterten kläglich. Das Scheitern hat Gründe, die einerseits in den spezifischen ökonomischen Grundlagen von Plattformen liegen und andererseits in den ungenügenden Vernetzungsfeatures der meisten dezentralen Ansätze. 
+
+Im Zuge meiner Arbeit an theoretischen Konzepten wie der Plattformneutralität und der Queryologie (der Lehre von Query), glaube ich, die Hauptgründe des Scheiterns so vieler Projekte wie Diaspora, FreedomBox und status.net verstanden zu haben. In meinem Vortrag möchte ich anhand von Google, WhatsApp und anderen erfolgreichen Beispielen zeigen, wie digitale Vernetzung zwar von dezentralen Ausgangspunkten starten kann, aber am Ende dennoch wieder in zentralistischen Strukturen landen muss. Ich möchte aber auch einen Ausweg aus dem Dilemma aufzeigen, der die wichtigsten Eigenschaften dezentraler Netzwerke (wie den Entzug der Kontrolle der Infrastruktur) bewerkstelligen kann, und trotzdem die notwendigen Features eines zentralen Systems bietet.
+
+
+
+Das neue Spiel
+
+Die allumfassende Abhörbarkeit des Internets hat die Welt geschockt. Auch die Netzszene konnte sich der Macht dieser Erzählung nicht entziehen. Eifrig werden allerlei Ideen und Pläne geschmiedet, wie dem Überwachungswahn Einhalt geboten werden kann.
+
+Was dabei aber übersehen wird, ist dass der Kampf gegen Überwachung, nicht mehr mit den selben Mitteln geführt werden kann, wie gegen die Vorratsdatenspeicherung. Seit Snowden haben sich die Spielregeln geändert.
+
+Eine der zentralen Debatten seit Snowden ist die Frage, ob nun die Techniker oder die Politik gefragt seien, das Debakel zu lösen.
